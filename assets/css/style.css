@@ -455,6 +455,9 @@ footer{
   margin-left: 10px;
   margin-right: 10px;
 }
+.footer_int_items2 p{
+  text-align: center;
+}
 footer a{
   text-decoration: none;
 }
